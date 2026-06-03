@@ -1,0 +1,1205 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/*body styles*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: aliceblue;
+    color: black;
+}
+/*header styles*/ 
+header{
+    background-color: orange;
+   color: black;
+   padding: 10;
+   text-align: center;
+}
+header{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+header h2{
+    width: 100;
+    height: auto;
+    margin-bottom: 10;
+}
+
+footer{
+    text-align: center;
+    padding: 15px;
+    background-color: orange;
+    bottom:0 ;
+    position: fixed;
+    width: 100%;
+    position: fixed;
+} 
+/* navigation bar styles*/ 
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.resize-image {
+    width: 100%;
+    max-width: 200px;
+    height: auto;
+}
+p{
+    transition: 0.3s;
+}
+
+p:hover{
+    color: #d61212;
+}
+/* =========================
+   GENERAL
+========================= */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #111;
+    color: white;
+    line-height: 1.6;
+}
+
+/* =========================
+   HEADER
+========================= */
+header{
+    background: black;
+    text-align: center;
+    padding: 15px;
+    border-bottom: 4px solid orange;
+}
+
+header img{
+    width: 120px;
+    margin-bottom: 10px;
+}
+
+header h2{
+    font-size: 35px;
+    color: orange;
+}
+
+header p{
+    color: #ddd;
+    margin-bottom: 20px;
+}
+
+/* =========================
+   NAVIGATION
+========================= */
+nav ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    flex-wrap: wrap;
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+nav a:hover{
+    color: orange;
+}
+
+/* =========================
+   MAIN
+========================= */
+main{
+    padding: 40px;
+}
+
+main h1{
+    text-align: center;
+    font-size: 50px;
+    color: orange;
+    margin-bottom: 40px;
+}
+
+.category-title{
+    font-size: 35px;
+    color: orange;
+    margin: 50px 0 20px;
+    border-left: 6px solid orange;
+    padding-left: 15px;
+}
+
+/* =========================
+   MENU GRID
+========================= */
+.menu-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 30px;
+}
+
+/* =========================
+   MENU CARD
+========================= */
+.menu-item{
+    background:#1c1c1c;
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(255,165,0,0.2);
+    transition: 0.3s;
+}
+
+.menu-item:hover{
+    transform: translateY(-8px);
+    box-shadow: 0 8px 20px rgba(255,165,0,0.5);
+}
+
+/* =========================
+   IMAGES
+========================= */
+.resize-image{
+    width: 100%;
+    height: 230px;
+    object-fit: cover;
+}
+
+/* =========================
+   TEXT
+========================= */
+.menu-info{
+    padding: 20px;
+    text-align: center;
+}
+
+.menu-info h4{
+    font-size: 24px;
+    margin-bottom: 10px;
+    color: white;
+}
+
+.menu-info p{
+    color: orange;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+/* =========================
+   FOOTER
+========================= */
+footer{
+    background: black;
+    text-align: center;
+    padding: 30px;
+    margin-top: 50px;
+    border-top: 4px solid orange;
+}
+
+footer h3,
+footer h4{
+    margin-bottom: 10px;
+}
+
+footer span{
+    color: orange;
+}
+
+/* =========================
+   MOBILE
+========================= */
+@media(max-width:768px){
+
+    main{
+        padding: 20px;
+    }
+
+    header h2{
+        font-size: 28px;
+    }
+
+    main h1{
+        font-size: 38px;
+    }
+
+    .category-title{
+        font-size: 28px;
+    }
+}
+/* =========================
+   HERO SECTION
+========================= */
+.hero{
+    background: black;
+    color: orange;
+    padding: 80px 20px;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.hero h1{
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+.hero p{
+    font-size: 24px;
+    color: white;
+}
+
+/* =========================
+   VIDEO SECTION
+========================= */
+.video-section{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.video-section video{
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 20px;
+    border: 5px solid black;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.4);
+}
+
+/* =========================
+   ABOUT SECTION
+========================= */
+.about-section{
+    background: orange;
+    padding: 40px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.about-section h2{
+    color: black ;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.about-section p{
+    color: white;
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+/* =========================
+   FOOTER COPYRIGHT
+========================= */
+.copyright{
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+/* =========================
+   MOBILE
+========================= */
+@media(max-width:768px){
+
+    .hero h1{
+        font-size: 38px;
+    }
+
+    .hero p{
+        font-size: 20px;
+    }
+
+    .about-section{
+        padding: 25px;
+    }
+
+    .about-section h2{
+        font-size: 30px;
+    }
+
+    .about-section p{
+        font-size: 17px;
+    }
+
+}/* =========================
+   HERO SECTION
+========================= */
+.hero{
+    background: black;
+    color: orange;
+    padding: 80px 20px;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.hero h1{
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+.hero p{
+    font-size: 24px;
+    color: white;
+}
+
+/* =========================
+   VIDEO SECTION
+========================= */
+.video-section{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.video-section video{
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 20px;
+    border: 5px solid black;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.4);
+}
+
+/* =========================
+   ABOUT SECTION
+========================= */
+.about-section{
+    background: black;
+    padding: 40px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.about-section h2{
+    color: orange;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.about-section p{
+    color: white;
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+/* =========================
+   FOOTER COPYRIGHT
+========================= */
+.copyright{
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+/* =========================
+   MOBILE
+========================= */
+@media(max-width:768px){
+
+    .hero h1{
+        font-size: 38px;
+    }
+
+    .hero p{
+        font-size: 20px;
+    }
+
+    .about-section{
+        padding: 25px;
+    }
+
+    .about-section h2{
+        font-size: 30px;
+    }
+
+    .about-section p{
+        font-size: 17px;
+    }
+
+}
+/* =========================
+   HERO SECTION
+========================= */
+.hero{
+    background: black;
+    color: orange;
+    padding: 80px 20px;
+    text-align: center;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.hero h1{
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+.hero p{
+    font-size: 24px;
+    color: white;
+}
+
+/* =========================
+   VIDEO SECTION
+========================= */
+.video-section{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+
+.video-section video{
+    width: 100%;
+    max-width: 1000px;
+    border-radius: 20px;
+    border: 5px solid black;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.4);
+}
+
+/* =========================
+   ABOUT SECTION
+========================= */
+.about-section{
+    background: black;
+    padding: 40px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+.about-section h2{
+    color: orange;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.about-section p{
+    color: white;
+    font-size: 20px;
+    line-height: 1.8;
+}
+
+/* =========================
+   FOOTER COPYRIGHT
+========================= */
+.copyright{
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+/* =========================
+   MOBILE
+========================= */
+@media(max-width:768px){
+
+    .hero h1{
+        font-size: 38px;
+    }
+
+    .hero p{
+        font-size: 20px;
+    }
+
+    .about-section{
+        padding: 25px;
+    }
+
+    .about-section h2{
+        font-size: 30px;
+    }
+
+    .about-section p{
+        font-size: 17px;
+    }
+
+}
+/* =========================
+   ABOUT HERO
+========================= */
+.about-hero{
+    background: black;
+    color: orange;
+    text-align: center;
+    padding: 70px 20px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.about-hero h1{
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+.about-hero p{
+    color: white;
+    font-size: 22px;
+}
+
+/* =========================
+   ABOUT CONTAINER
+========================= */
+.about-container{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+}
+
+/* =========================
+   ABOUT CARDS
+========================= */
+.about-card{
+    background: black;
+    padding: 35px;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+    transition: 0.3s;
+}
+
+.about-card:hover{
+    transform: translateY(-5px);
+}
+
+.about-card h2{
+    color: orange;
+    font-size: 35px;
+    margin-bottom: 20px;
+    border-left: 5px solid orange;
+    padding-left: 15px;
+}
+
+.about-card p{
+    color: white;
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+/* =========================
+   MOBILE
+========================= */
+@media(max-width:768px){
+
+    .about-hero h1{
+        font-size: 38px;
+    }
+
+    .about-hero p{
+        font-size: 18px;
+    }
+
+    .about-card{
+        padding: 25px;
+    }
+
+    .about-card h2{
+        font-size: 28px;
+    }
+
+    .about-card p{
+        font-size: 16px;
+    }
+
+}
+/* =========================
+   NAVIGATION
+========================= */
+nav ul{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    list-style: none;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(240, 229, 229);
+    font-weight: bold;
+    font-size: 18px;
+    transition: 0.3s;
+    padding: 8px 12px;
+}
+
+nav a:hover{
+    color: white;
+}
+/* =========================
+   RESERVATION HERO
+========================= */
+.reservation-hero{
+    background: black;
+    color: orange;
+    text-align: center;
+    padding: 70px 20px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.reservation-hero h1{
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+.reservation-hero p{
+    color: white;
+    font-size: 22px;
+}
+
+/* =========================
+   RESERVATION LAYOUT
+========================= */
+.reservation-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    align-items: start;
+}
+
+/* =========================
+   FORM
+========================= */
+.reservation-form{
+    background: black;
+    padding: 35px;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+}
+
+.reservation-form h2{
+    color: orange;
+    margin-bottom: 25px;
+    font-size: 35px;
+}
+
+.reservation-form label{
+    display: block;
+    margin-top: 15px;
+    margin-bottom: 8px;
+    color: orange;
+    font-weight: bold;
+}
+
+.reservation-form input,
+.reservation-form textarea{
+    width: 100%;
+    padding: 14px;
+    border: none;
+    border-radius: 10px;
+    font-size: 16px;
+    margin-bottom: 15px;
+}
+
+.reservation-form textarea{
+    resize: none;
+}
+
+/* BUTTON */
+.reservation-form input[type="submit"]{
+    background: orange;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.reservation-form input[type="submit"]:hover{
+    background: white;
+}
+
+/* =========================
+   INFO CARD
+========================= */
+.reservation-info{
+    background: black;
+    padding: 35px;
+    border-radius: 20px;
+    color: white;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+}
+
+.reservation-info h2{
+    color: orange;
+    margin-bottom: 20px;
+    font-size: 35px;
+}
+
+.reservation-info h3{
+    color: orange;
+    margin-top: 25px;
+    margin-bottom: 10px;
+}
+
+.reservation-info p{
+    line-height: 1.8;
+    font-size: 18px;
+}
+
+/* =========================
+   MOBILE
+========================= */
+@media(max-width:900px){
+
+    .reservation-container{
+        grid-template-columns: 1fr;
+    }
+
+    .reservation-hero h1{
+        font-size: 40px;
+    }
+
+    .reservation-form h2,
+    .reservation-info h2{
+        font-size: 28px;
+    }
+
+}
+/* =========================
+   CONTACT HERO
+========================= */
+.contact-hero{
+    background: black;
+    color: orange;
+    text-align: center;
+    padding: 70px 20px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.contact-hero h1{
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+.contact-hero p{
+    color: white;
+    font-size: 22px;
+}
+
+/* =========================
+   CONTACT LAYOUT
+========================= */
+.contact-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin-bottom: 50px;
+}
+
+/* =========================
+   CONTACT INFO
+========================= */
+.contact-info{
+    background: black;
+    color: white;
+    padding: 35px;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+}
+
+.contact-info h2{
+    color: orange;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.contact-info p{
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+/* =========================
+   FORM
+========================= */
+.contact-form{
+    background: black;
+    padding: 35px;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+}
+
+.contact-form h2{
+    color: orange;
+    margin-bottom: 25px;
+    font-size: 35px;
+}
+
+.contact-form label{
+    display: block;
+    margin-bottom: 8px;
+    margin-top: 15px;
+    color: orange;
+    font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea{
+    width: 100%;
+    padding: 14px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.contact-form textarea{
+    resize: none;
+}
+
+.contact-form input[type="submit"]{
+    background: orange;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.contact-form input[type="submit"]:hover{
+    background: white;
+}
+
+/* =========================
+   MAP
+========================= */
+.map-section iframe{
+    width: 100%;
+    height: 450px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+/* =========================
+   MOBILE
+========================= */
+@media(max-width:900px){
+
+    .contact-container{
+        grid-template-columns: 1fr;
+    }
+
+    .contact-hero h1{
+        font-size: 40px;
+    }
+
+    .contact-form h2,
+    .contact-info h2{
+        font-size: 28px;
+    }
+
+}
+/* =========================
+   CONTACT HERO
+========================= */
+.contact-hero{
+    background: black;
+    color: orange;
+    text-align: center;
+    padding: 70px 20px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+.contact-hero h1{
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+.contact-hero p{
+    color: white;
+    font-size: 22px;
+}
+
+/* =========================
+   CONTACT LAYOUT
+========================= */
+.contact-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 40px;
+    margin-bottom: 50px;
+}
+
+/* =========================
+   CONTACT INFO
+========================= */
+.contact-info{
+    background: black;
+    color: white;
+    padding: 35px;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+}
+
+.contact-info h2{
+    color: orange;
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+
+.contact-info p{
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 20px;
+}
+
+/* =========================
+   FORM
+========================= */
+.contact-form{
+    background: black;
+    padding: 35px;
+    border-radius: 20px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+}
+
+.contact-form h2{
+    color: orange;
+    margin-bottom: 25px;
+    font-size: 35px;
+}
+
+.contact-form label{
+    display: block;
+    margin-bottom: 8px;
+    margin-top: 15px;
+    color: orange;
+    font-weight: bold;
+}
+
+.contact-form input,
+.contact-form textarea{
+    width: 100%;
+    padding: 14px;
+    border: none;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    font-size: 16px;
+}
+
+.contact-form textarea{
+    resize: none;
+}
+
+.contact-form input[type="submit"]{
+    background: orange;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.contact-form input[type="submit"]:hover{
+    background: white;
+}
+
+/* =========================
+   MAP
+========================= */
+.map-section iframe{
+    width: 100%;
+    height: 450px;
+    border: 5px solid black;
+    border-radius: 20px;
+}
+
+/* =========================
+   MOBILE
+========================= */
+@media(max-width:900px){
+
+    .contact-container{
+        grid-template-columns: 1fr;
+    }
+
+    .contact-hero h1{
+        font-size: 40px;
+    }
+
+    .contact-form h2,
+    .contact-info h2{
+        font-size: 28px;
+    }
+
+}
+html, body{
+    margin: 0;
+    padding: 0;
+}
+main{
+    flex: 1;
+
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+
+    padding: 20px;
+
+    /* IMPORTANT FIXES */
+    overflow: visible;
+    height: auto;
+}
+img, video, iframe{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+
+    background: black;
+    color: orange;
+
+    text-align: center;
+    padding: 8px;
+
+    transform: translateY(80%);
+    transition: transform 0.4s ease;
+
+    z-index: 999;
+}
+
+/* Slide up when user hovers near bottom */
+footer:hover{
+    transform: translateY(0);
+}
+
+/* =========================
+   GLOBAL COLOR SYSTEM
+========================= */
+
+html, body{
+    margin: 0;
+    padding: 0;
+    min-height: 100%;
+
+    background-color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+/* =========================
+   HEADER (BLACK ACCENT BAR)
+========================= */
+header{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+    background: black;
+    color: orange;
+
+    text-align: center;
+
+    padding: 8px;
+
+    border-bottom: 3px solid orange;
+}
+
+/* logo + text */
+header h2, header p{
+    color: orange;
+}
+
+/* =========================
+   NAVIGATION
+========================= */
+nav a{
+    color: rgb(66, 119, 44);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color: white;
+}
+
+/* =========================
+   MAIN CONTENT (CARDS STYLE)
+========================= */
+main{
+    flex: 1;
+
+    max-width: 1200px;
+    margin: 0 auto;
+
+    padding: 20px;
+}
+
+/* makes sections look like cards */
+section{
+    background: black;
+    color: white;
+
+    padding: 20px;
+    border-radius: 12px;
+
+    margin-bottom: 20px;
+}
+
+/* headings inside sections */
+section h1,
+section h2{
+    color: orange;
+}
+
+/* =========================
+   IMAGES / MEDIA
+========================= */
+img, video, iframe{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    border-radius: 10px;
+}
+
+/* =========================
+   FOOTER (SMALL + CLEAN BLACK BAR)
+========================= */
+footer{
+    background: black;
+    color: orange;
+
+    text-align: center;
+
+    padding: 6px;
+
+    font-size: 12px;
+
+    border-top: 3px solid orange;
+
+    margin-top: auto;
+}
+
+/* =========================
+   BUTTON / INPUT STYLE
+========================= */
+input, textarea{
+    width: 100%;
+    padding: 10px;
+
+    border: none;
+    border-radius: 6px;
+
+    margin-top: 5px;
+}
+
+input[type="submit"]{
+    background: orange;
+    color: black;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover{
+    background: white;
+}
