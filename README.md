@@ -3,14 +3,14 @@
 Table of content 
 1 ORGANISATION OVERVIEW                                                                                                    PG 2
 2 WEBSITE GOALS AND OBJECTIVES                                                                                         PG 3
-3 CURRENT WEBSITE ANALYSIS                                                                                                 PG 5
-4 PROPOSED WEBSITE FEATURES AND FUNCTIONALITY                                                      PG 6
-5 DESIGN AND USER EXPERIENCE                                                                                             PG 7
+3 CURRENT WEBSITE ANALYSIS                                                                                                 PG 6
+4 PROPOSED WEBSITE FEATURES AND FUNCTIONALITY                                                      PG 7
+5 DESIGN AND USER EXPERIENCE                                                                                             PG 8
 6 USER EXPERIENCE CONSIDERRATIONS                                                                                 PG 10
-7 TECHNICAL REQIREMENTS                                                                                                      PG 11
-8 TIMELINE AND MILESTONES                                                                                                   PG 13
-9 BUDGET ESTIMATION                                                                                                              PG 13
- REFERENCES                                                                                                                                 PG 15
+7 TECHNICAL REQIREMENTS                                                                                                      PG 13
+8 TIMELINE AND MILESTONES                                                                                                   PG 14
+9 BUDGET ESTIMATION                                                                                                              PG 15
+ REFERENCES                                                                                                                                 PG 17
 
 
 
@@ -34,81 +34,75 @@ Location: 295 Florida road, Florida Fields, Windermere, Berea, Durban, 4001
 Website published on: https://github.com/JeNo99/ST10474303--PART-2 
 
 BRIEF HISTORY 
-Sham Shawarma and Grill was founded to introduce authentic Middle Eastern cuisine to the local community. Drawing inspiration from Jordanian and Palestinian traditions, the restaurant has become well-known for its freshly made shawarmas, grilled dishes, and inviting atmosphere. Over time, it has gained a loyal following due to its commitment to quality, affordability, and strictly halaal offerings. 
-The Middle Eastern restaurant Sham Schawarma & Grill is situated on Florida Road in Durban. Authentic shawarma, grilled meats, falafel, kebabs, hummus, and other typical Middle Eastern meals are the restaurant's specialties. Freshly cooked meals and a family-friendly dining experience have made it famous for introducing Middle Eastern delicacies to Durban.
+In order to provide the neighborhood with real Middle Eastern food, Sham Shawarma and Grill was established. The restaurant, which draws influence from Palestinian and Jordanian customs, is well-known for its grilled food, freshly cooked shawarmas, and welcoming ambiance. Because of its dedication to quality, affordability, and only halaal products, it has garnered a devoted following over time. 
 
-The historical region of Bilad al-Sham (Greater Syria), which comprises present-day Syria, Lebanon, Jordan, and Palestine, is referred to as "Sham." The restaurant is inspired by the region's rich culinary traditions, especially the well-known shawarma, which has its roots in Ottoman-era techniques for roasting meat on a vertical spit.
-Sham Schawarma & Grill, which serves both dine-in and takeout customers in Durban, is now well-known in the area for its authentic Middle Eastern food, which includes beef and chicken shawarma wraps, mixed grill platters, falafel meals, and fresh juices. 
+Sham Schawarma & Grill is a Middle Eastern eatery located on Florida Road in Durban. The restaurant specializes on authentic shawarma, grilled meats, falafel, kebabs, hummus, and other classic Middle Eastern dishes. It is well-known for bringing Middle Eastern cuisine to Durban because to its freshly prepared meals and welcoming atmosphere.
+
+"Sham" refers to the ancient territory of Bilad al-Sham (Greater Syria), which includes modern-day Syria, Lebanon, Jordan, and Palestine. The restaurant draws inspiration from the rich culinary traditions of the area, particularly the popular shawarma, which originated from Ottoman-era methods of roasting meat on a vertical spit.
+
+Sham Schawarma & Grill is a popular dine-in and takeout restaurant in Durban that is well-known for its authentic Middle Eastern cuisine, which includes falafel dinners, mixed grill platters, beef and chicken shawarma wraps, and fresh juices.
+
 MISSION STATEMENT 
 “The mission of Sham Schawarma and Grill is to serve fresh, flavorful, and authentic meals made with quality ingredients and traditional recipes. The restaurant is committed to maintaining excellent food standards, delivering fast and friendly service, and ensuring that every customer leaves satisfied.”
 VISION STATEMENT 
 “The vision of Sham Schawarma and Grill is to become a trusted and well-recognized destination for authentic Middle Eastern cuisine. The restaurant strives to create memorable dining experiences where customers can enjoy high-quality food, friendly services, and a welcoming atmosphere inspired by Middle Eastern hospitality.” 
 
 TARGET AUDIENCE 
-Sham Schawarma & Grill's target market consists of:
+The target market for Sham Schawarma & Grill is made up of:
 
-1. Students and young adults seeking quick, tasty, and reasonably priced meals.
-2. Professionals in the workforce who desire easy lunch and dinner options.
-3. Families looking for a range of food options and a relaxed dining experience.
-4. Middle Eastern foodies who enjoy grilled foods, falafel, kebabs, and authentic shawarma.
-5. Visitors and tourists discovering Durban's culinary scene, particularly in the Florida Road area.
-6. Clients who are concerned about halal food, since Middle Eastern eateries frequently accommodate halal dietary requirements.
+1. Young adults and students looking for quick, delicious, and affordable meals.
+2. Working professionals who want simple lunch and dinner options.
+3. Families seeking a casual dining experience and a variety of culinary alternatives.
+4. Middle Eastern foodies who love authentic shawarma, falafel, kebabs, and grilled meals.
+5. Tourists and visitors learning about Durban's food scene, especially along Florida Road.
+6. Customers who are worried about halal cuisine because Middle Eastern restaurants usually cater to halal dietary needs.
 2 WEBSITE GOALS AND OBJECTIVES 
 
 WEBSITE GOAL
-The primary aim of the Sham Shawarma and Grill website is to build a strong digital presence that markets the business, draws in new customers, and enhances the overall customer experience. It is designed to provide easy access to information while boosting brand visibility and increasing sales.
+The Sham Shawarma and Grill website's main goal is to have a powerful online presence that promotes the company, attracts new clients, and improves the general customer experience. It is intended to make information easily accessible while raising sales and brand awareness.
 WEBSITE OBJECTIVES
-•	To display accurate and updated details about the menu, pricing, location, and trading hours 
-•	To showcase the restaurant’s strictly halaal meals and distinctive Middle Eastern dishes 
-•	To offer convenient features such as online ordering and communication options 
-•	To attract potential customers through visually appealing and engaging content 
-•	To encourage customer retention by promoting specials, deals, and updates 
-•	To improve the brand’s image and maintain competitiveness in the online market
-
 KEY PERFORMANCE INDICATORS (KPIs) TO MEASURE SUCCESS
-KPI	What It Measures	Targert
-Website Traffic
-Number of visitors to the website.	Increase visitors by 20% within 6 months.
+• To show precise and current information about the menu, prices, location, and trade hours. 
+• To highlight the restaurant's unique Middle Eastern delicacies and only halaal meals. 
+• To provide practical features like online ordering and communication channels 
+• To draw in prospective clients with eye-catching and captivating material 
+• To promote sales, discounts, and upgrades in order to foster consumer retention. 
+• To sustain competitiveness in the internet market and enhance the brand's reputation
 
-Online Orders	Number of orders placed through the website.	Achieve at least 100 online orders per month.
-
-Conversion Rate	Percentage of visitors who place an order or make an enquiry.	Reach a conversion rate of 5% or higher.
-
-Bounce Rate	Percentage of visitors who leave after viewing only one page.	Keep below 40%.
-
-Average Session Duration	How long visitors spend on the website.	More than 2 minutes per visit.
-
-Mobile User Satisfaction	Performance and usability on mobile devices.	Maintain a mobile-friendly score above 90%.
-
-Menu Page Views	Number of times the menu page is viewed.	Increase menu views by 30% within 3 months.
-
-Customer Enquiries	Number of contact forms or enquiries received.	Generate at least 20 enquiries per month.
-
-Customer Reviews and Ratings	Feedback received through the website or linked platforms.	Maintain an average rating of 4.5/5 or higher.
-Page Load Speed	Time taken for website pages to load.	Load pages within 3 seconds.
-
+KPI	What It Evaluates	Target
+Website Traffic	The total number of people visiting the website.	Increase website visits by 20% within six months.
+Online Orders	The quantity of orders completed through the website.	Reach a minimum of 100 online orders each month.
+Conversion Rate	The percentage of visitors who take action, such as placing an order or submitting an enquiry.	Achieve a conversion rate of at least 5%.
+Bounce Rate	The percentage of visitors who leave the website after viewing only one page.	Maintain a bounce rate below 40%.
+Average Session Duration	The average amount of time users spend on the website.	Keep the average visit duration above two minutes.
+Mobile User Satisfaction	The website’s usability and performance on mobile devices.	Maintain a mobile usability score of over 90%.
+Menu Page Views	The number of times the menu page is accessed by visitors.	Increase menu page visits by 30% within three months.
+Customer Enquiries	The number of enquiries or contact form submissions received.	Obtain at least 20 customer enquiries per month.
+Customer Reviews and Ratings	Customer opinions and ratings collected through the website or connected platforms.	Maintain an average customer rating of 4.5 out of 5 or higher.
+Page Load Speed	The time required for website pages to display fully.	Ensure all pages load in less than three seconds.
 
 3 CURRENT WEBSITE ANALYSIS
 
 REASON FOR CHOOSING TO CREATE A WEBSITE FOR SHAM SHAWARMA AND GRILL
-The decision to develop a website for Sham Shawarma and Grill is based on the growing importance of having an online presence in today’s digital world. The company does not have a website currently and creating this website will give get them more attention that will attract people. This website will allow the business to promote its menu, highlight its strictly halaal offerings, and attract a wider audience beyond walk-in customers. It also makes it easier for customers to access important information such as location, operating hours, and contact details at any time.
-Additionally, the website will improve customer convenience by enabling features such as online ordering, menu browsing, and updates on promotions or specials. This would increase customer satisfaction and encourage repeat business. Having this professional website also enhances the restaurant’s credibility and competitiveness within the food industry, especially as many customers rely on online platforms when choosing where to eat.
-Furthermore, the website can serve as a marketing tool by showcasing images of food, sharing customer reviews, and integrating with social media platforms. This helps to strengthen brand awareness and build stronger relationships with customers.
+The growing significance of having an online presence in today's digital world is the basis for the decision to create a website for Sham Shawarma and Grill. The business doesn't already have a website, so building one will increase its visibility and draw more customers. With the help of this website, the company will be able to advertise its menu, showcase its exclusively halaal products, and draw in more clients than just walk-in clients. Additionally, it facilitates customers' access to crucial information like location, business hours, and contact data at any time.
+Additionally, by enabling features like online ordering, menu browsing, and updates on discounts or specials, the website will increase client convenience. This would boost client satisfaction and promote recurring business. The restaurant's legitimacy and competitiveness in the food market are also improved by having this polished website, particularly since many patrons rely on online resources when making dining decisions.
+Additionally, by displaying culinary photos, posting client testimonials, and interacting with social media sites, the website can double as a marketing tool. Stronger customer relationships and increased brand awareness are the results of this.
 ADVANTAGES OF THE NEW SHAM SCHAWARMA & GRILL WEBSITE
 
-1. Provides Crucial Information: The website contains crucial information including the restaurant’s location, menu, and contact data.
+1. Provides Important Information: The restaurant's address, menu, and contact information are all included on the website.
 
-2. Simple Navigation: Users have little trouble navigating between pages like Home, Menu, and Contact.
+2. Easy Navigation: The Home, Menu, and Contact pages are easy for users to navigate between.
 
-3. Visual Appeal: Using pictures of food draws consumers and highlights the restaurant’s offerings.
+3. Visual Appeal: Using images of food attracts customers and draws attention to what the business has to offer.
 
-4. Brand Promotion: The website uses its logo, colors, and content to highlight the restaurant’s identity.
+4. Brand Promotion: The restaurant's identity is emphasized on the website through its logo, colors, and content.
 
-5. Accessible 24/7: Without having to physically visit the restaurant, customers can access information about it at any time.
+5. Available 24/7: Customers can obtain information about the restaurant at any time without physically visiting it.
 
-6. Mobile Accessibility: Customers can easily visit the website from computers, tablets, and smartphones.
-7. Cost-effective Marketing Tool: The restaurant can reach a larger audience by using the website as an online marketing platform.
-8. Menu Availability: This enhances convenience by allowing customers to peruse menu items before to visiting or placing an order.
+6. Mobile Accessibility: Users of PCs, tablets, and smartphones can readily access the website.
+7. Economical Marketing Tool: By using the website as an online marketing platform, the restaurant can reach a wider audience.
+
+8. Menu Availability: By enabling patrons to browse menu items prior to visiting or placing an order, this improves convenience.
 4 PROPOSED WEBSITE FEATURES AND FUNCTIONALITY 
 
 CORE PAGES 
@@ -118,147 +112,145 @@ CORE PAGES
 4. Menu 
 5. Reservation
 
-KEY FUNCTIONALITY 
-•	Digital Menu – Customers can browse the restaurant's food and drink options online, making it easier to decide what to order. 
-•	 Online Ordering System – The website allows customers to place orders electronically, providing a fast and convenient ordering process. 
-•	Communication Details – Essential contact information, including phone numbers, email addresses, and social media accounts, is available for customer enquiries. 
-•	Location Information – Customers can access the restaurant's address and directions, helping them find the establishment with ease. 
-•	Responsive Design – The website adapts to different screen sizes and devices, ensuring a smooth browsing experience on mobile phones, tablets, and computers. 
-•	Photo Gallery – Images of menu items and the restaurant environment help attract customers and provide a visual representation of the brand. 
-•	User-Friendly Navigation – Clearly organized menus and links allow visitors to move between different sections of the website efficiently. 
-•	Online Enquiry Feature – Customers can submit questions, comments, or requests through an online form, improving communication with the business. 
-•	Social Media Connections – The website links to social media platforms, enabling customers to stay informed about updates, promotions, and new offerings. 
-•	Special Offers and Promotions – Promotional content can be displayed on the website to inform customers about discounts and featured meals, helping to increase sales.
+KEY FUNCTIONALITY
+• Online Menu – Customers can view the restaurant’s food and beverage selections online, helping them make informed ordering decisions.
+• Web-Based Ordering – The website enables customers to place orders digitally, offering a quick and convenient way to purchase meals.
+• Contact Information – Key communication details, such as telephone numbers, email addresses, and social media links, are provided to assist customers with enquiries.
+• Location Details – Information about the restaurant’s address and directions is available, making it easier for customers to locate the business.
+• Responsive Layout – The website is designed to function effectively across various devices and screen sizes, including smartphones, tablets, and desktop computers.
+• Image Gallery – Photographs of menu items and the restaurant’s atmosphere showcase the business and enhance its visual appeal.
+• Easy Navigation – Well-structured menus and links allow users to move through the website quickly and efficiently.
+• Online Contact Form – Visitors can send enquiries, feedback, or requests through an online form, improving interaction between customers and the restaurant.
+• Social Media Integration – Direct links to social media platforms help customers stay updated on news, promotions, and menu additions.
+• Promotions and Special Deals – The website can display discounts, featured meals, and special offers to encourage customer engagement and increase sales.
+ 
 5 DESIGN AND USER EXPERIENCE 
 
 DESIGN AESTHETIC AND BRANDING 
-The orange and black color scheme of the Sham Schawarma & Grill website creates a unique and captivating online presence. The black components add to a polished and contemporary appearance, while the warm orange hues help evoke a feeling of vitality and appetite appeal. The website successfully conveys the restaurant's identity and ideals through appealing culinary photos, an adaptable style, and consistent branding elements. The user experience is improved and brand recognition is increased when colors, images, and messaging are consistent.
+The Sham Schawarma & Grill website has a distinctive and alluring online look thanks to its orange and black color design. The bright orange tones assist create a sense of life and appetite appeal, while the black elements contribute to a sleek and modern appearance. Through eye-catching culinary images, a flexible design, and unified branding components, the website effectively communicates the restaurant's identity and values. Consistency in colors, graphics, and content enhances the user experience and boosts brand identification.
 TYPOGRAPHY 
-Element	Type	Example from Website	Purpose
-Main Website Title
-Large Bold Sans-Serif	"SHAM SHAWARMA AND GRILL"	
-Establishes brand identity and attracts attention.
-
-
-Page Headings	Large Bold Sans-Serif	"Welcome to Sham Shawarma & Grill", "About Us", "Get In Touch"	Highlights key sections and improves readability.
-
-Navigation Menu	Medium Bold Sans-Serif	Home, About, Contact, Menu, Reservation	Allows users to navigate the website easily.
-
-Subheading/Tagline	Regular Sans-Serif	"Authentic Middle Eastern Cuisine"	Provides supporting information about the brand.
-
-Body Text	Regular Sans-Serif	About Us description and contact information	Communicates detailed information clearly. 
-Form Labels	Medium Bold Sans-Serif	"Full Name", "Email Address"	Guides users when completing forms.
-
-Footer Text	Small Sans-Serif	Operating Hours	Displays supplementary information without dominating the page.
+Element	Font Style	Website Example	Function
+Main Website Heading	Large, Bold Sans-Serif	"SHAM SHAWARMA AND GRILL"	Strengthens brand recognition and serves as the primary visual focal point of the website.
+Section Headings	Large, Bold Sans-Serif	"Welcome to Sham Shawarma & Grill", "About Us", "Get In Touch"	Distinguishes major sections and improves the overall structure of the content.
+Navigation Bar	Medium, Bold Sans-Serif	Home, About, Contact, Menu, Reservation	Enables users to access different areas of the website quickly and efficiently.
+Tagline/Subheading	Standard Sans-Serif	"Authentic Middle Eastern Cuisine"	Communicates the restaurant’s unique offering and supports the brand message.
+Content Text	Standard Sans-Serif	About Us information and contact details	Provides visitors with important information in an easy-to-read format.
+Form Field Labels	Medium, Bold Sans-Serif	"Full Name", "Email Address"	Gives clear instructions regarding the information users need to enter into forms.
+Footer Information	Small Sans-Serif	Operating Hours	Displays additional details while maintaining emphasis on the main website content.
 
 LAYOUT AND DESIGN APPROACH
 Layout and Design Approach of the Sham Schawarma & Grill Website
-•	The website uses a straightforward and easy-to-use design, allowing visitors to find information quickly. 
-•	A uniform header section appears on each page, displaying the logo, restaurant name, slogan, and navigation links. 
-•	The content is arranged in a simple vertical layout, which helps users focus on the information being presented. 
-•	Information is divided into well-defined sections with prominent headings, making the content easier to read and understand. 
-•	The orange and black colour palette is consistently applied across the website, reinforcing the restaurant's brand image. 
-•	A clearly structured navigation bar enables users to move easily between different pages of the website. 
-•	Different font sizes are used to create a clear visual structure, helping users identify key information at a glance. 
-•	Adequate spacing between sections contributes to a neat and organised appearance. 
-•	The website is designed to be responsive, ensuring it functions effectively on computers, tablets, and smartphones. 
-•	The overall design prioritises ease of use and accessibility, enhancing the visitor's browsing experience. 
-•	Strong colour contrast between text and backgrounds improves readability and visual appeal. 
-•	Consistent use of design elements, typography, and colours gives the website a modern and professional look. 
+• The website's simple, user-friendly layout makes it easy for users to locate information. 
+
+• Every page has a consistent header area with the restaurant name, tagline, logo, and navigation links. 
+
+• A straightforward vertical layout of the text makes it easier for consumers to concentrate on the information being displayed. 
+
+• The text is easier to read and comprehend because it is organized into well defined sections with prominent titles.
+
+• The restaurant's brand image is reinforced by the website's regular use of the orange and black color scheme.
+
+ • A well-organized navigation bar makes it simple for users to navigate between the website's many pages. 
+
+• A distinct visual structure is created by using different font sizes, making it easier for users to quickly identify important content. 
+
+• A tidy and well-organized appearance is enhanced by adequate space between sections. 
+
+• Because to its responsive design, the website works well on PCs, tablets, and smartphones.
+
+ • Accessibility and usability are given top priority in the entire design, which improves the visitor's browsing experience.
+
+ • Readability and visual attractiveness are enhanced when text and backgrounds have a strong color contrast.
+
+ • The website has a contemporary and polished appearance thanks to the consistent use of design elements, typography, and colors. 
 6 USER EXPERIENCE CONSIDERATIONS 
 
-•	The website provides simple and intuitive navigation, allowing users to move between pages without confusion.
-•	The orange and black colour scheme creates strong contrast, making text and important information easy to read.
-•	Large headings and clear typography improve readability and content accessibility.
-•	The layout is clean and uncluttered, helping users focus on the most important information.
-•	Important sections such as the Home, About, Menu, Contact, and Reservation pages are easily accessible through the navigation menu.
-•	The dedicated Reservation page allows customers to conveniently book a table online, improving customer service and enhancing the overall user experience.
-•	The website maintains consistent branding and design elements across all pages, creating a familiar and professional experience for users.
-•	Content is organised into logical sections, making information easy to locate and understand.
-•	The responsive design ensures that the website can be viewed effectively on mobile phones, tablets, and desktop computers.
-•	High-quality visuals and branding elements help create a more engaging browsing experience.
-•	The website's simple design reduces the learning curve for first-time visitors and improves usability.
-•	Contact information is clearly displayed, enabling users to communicate with the restaurant easily.
-•	Quick access to essential information and reservation facilities improves customer convenience and satisfaction. 
+• The website's easy-to-use navigation makes it possible for users to navigate between pages with ease.
+
+• Text and crucial information are simple to read thanks to the striking contrast created by the orange and black color scheme.
+
+• Readability and content accessibility are enhanced by large headings and legible font.
+
+• Users can concentrate on the most crucial information thanks to the layout's simplicity and cleanliness.
+
+• The navigation menu makes it simple to access key parts including the Home, About, Menu, Contact, and Reservation pages.
+
+• Customers may easily reserve a table online using the dedicated Reservation website, which enhances customer service and the user experience in general.
+
+• The website keeps its branding and design aspects consistent throughout all of its pages, giving users a recognizable and polished experience.
+
+• Information is arranged logically into parts, making it simple to find and comprehend.
+
+• The website may be browsed efficiently on desktop computers, tablets, and mobile devices thanks to the responsive design.
+
+• Excellent graphics and branding components contribute to a more captivating online experience.
+
+• The website's straightforward layout enhances usability and lowers the learning curve for new users.
+
+• Contact details are prominently displayed, making it simple for customers to get in touch with the eatery.
+
+• Reservation services and quick access to vital information increase client happiness and convenience.
+
 LOW-FIDELITY WIREFRAMES – KEY SCREENS
-Screen/Page	Main Elements Included
+Screen/Page	Main Features and Content
+Home Page	Includes the restaurant logo, brand name, navigation links, an introductory message, a featured video, and a footer containing additional information.
+About Page	Contains the restaurant logo, navigation menu, an overview of the business, details about its background, mission and vision statements, and a footer section.
+Menu Page	Displays the restaurant logo, navigation menu, menu categories such as Shawarma, Grills, Desserts, and Beverages, a list of available food items, and a footer.
+Reservation Page	Features the restaurant logo, navigation menu, an online booking form requiring customer details (name, email, preferred date, time, and number of guests), a reservation submission button, and a footer.
+Contact Page	Provides the restaurant logo, navigation menu, a contact form, business location details, telephone and email contact information, an embedded map, and a footer containing supplementary information.
 
-Home Page	Logo, restaurant name, navigation menu, welcome message, video, footer
-
-About Page	Logo, navigation menu, About Us heading, restaurant history, mission and vision statement, footer
-
-Menu Page	Logo, navigation menu, menu categories (Shawarma, Grills, Deserts, Drinks), food items, footer
-
-Reservation Page	Logo, navigation menu, reservation form (Name, Email, Date, Time, Number of Guests), Book Table button, footer
-
-Contact Page	Logo, navigation menu, contact form, address, phone number, email address, map, footer
  
 7 TECHNICAL REQUIREMENTS 
 
 Requirement Category	Technical Requirement
-
-Hardware
-Computer or laptop for website development and maintenance.
-
-Internet Connection
-Stable internet connection for website hosting, updates, and user access.
-
-Web Hosting
-Reliable web hosting service to store website files and ensure availability. 
-
-Domain Name	A registered domain name (e.g., shamshawarma.co.za).
-
-Frontend Technologies	HTML5, CSS3, and JavaScript for creating the website interface and functionality.
-Backend Technologies
-PHP, Node.js, or similar technology for handling forms and reservations.
-
-Database
-MySQL or similar database system to store reservation and contact form data.
-
-Responsive Design
-Website must be compatible with desktops, tablets, and smartphones.
-
-Web Browser Compatibility	Support for Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
-
-Security
-SSL certificate (HTTPS) to secure user data and website communications. 
-
-Navigation System	Functional navigation menu linking Home, About, Menu, Reservation, and Contact pages.
-
-Reservation System	Online booking form with validation for customer reservations.
-Contact Form
-Functional contact form allowing customers to send enquiries.
-
-Performance
-Website pages should load within 3 seconds for optimal user experience.
-
-Maintenance	Regular updates, backups, and security monitoring.
+Hardware Resources	A computer or laptop is needed to support the development, administration, and maintenance of the website.
+Network Access	A reliable internet connection is essential for website deployment, content updates, and customer access.
+Hosting Platform	A dependable hosting solution is required to store website data and ensure the site remains accessible at all times.
+Website Address	A unique and registered domain name, such as shamshawarma.co.za, is necessary for online identification.
+Frontend Frameworks and Languages	HTML5, CSS3, and JavaScript will be utilized to create the website’s visual design and interactive elements.
+Backend Frameworks and Languages	Technologies such as PHP, Node.js, or similar platforms will process reservations and manage form submissions.
+Data Storage System	A database solution, such as MySQL, will be implemented to securely maintain reservation records and customer enquiries.
+Cross-Device Compatibility	The website should automatically adjust to different screen resolutions and device types, including smartphones, tablets, and desktop computers.
+Browser Support	The website must operate effectively on popular browsers such as Google Chrome, Mozilla Firefox, Microsoft Edge, and Safari.
+Data Protection	HTTPS encryption through an SSL certificate should be implemented to safeguard user information and online interactions.
+Site Navigation	An intuitive navigation structure should allow users to move seamlessly between the Home, About, Menu, Reservation, and Contact sections.
+Booking Functionality	An online reservation feature with validation checks should be available to capture accurate booking information.
+Enquiry Management	A digital contact form should enable customers to submit enquiries, comments, and feedback directly through the website.
+System Efficiency	Website pages should display within three seconds to ensure a fast and responsive browsing experience.
+Website Administration	Routine maintenance activities, including software updates, data backups, and security assessments, should be carried out regularly.
  
 8 TIMELINE AND MILESTONES
  
-Week	Phase	Main Activities
-1	Planning & Research	Define goals, research competitors, identify target audience and features
-2-3	Content Development	Gather content, write text, plan pages and navigation
-4-5	Design Phase	Create wireframes, choose colours and fonts, design key pages
-6-9	Website Development	Build website, add content and images, make it mobile-friendly
-10	Testing & Improvements	Test links and forms, fix errors, improve speed and usability
-11	Finalisation & Submission	Make final changes, check requirements, prepare presentation/documentation
+Week	Project Phase	Activities Performed
+1	Initiation and Research	Determine the website objectives, investigate competitor websites, identify the intended audience, and outline the required functionality.
+2–3	Content Creation and Organisation	Compile website content, prepare written material, and structure the site’s pages and navigation system.
+4–5	Interface Design	Develop low-fidelity wireframes, choose suitable colours and typography, and design the primary website screens.
+6–9	Website Construction	Develop the website, incorporate content and visual elements, and ensure the site functions effectively across different devices.
+10	Evaluation and Optimisation	Review website functionality, test interactive features and links, correct identified issues, and enhance overall performance and usability.
+11	Project Closure and Submission	Complete final revisions, confirm compliance with project specifications, and prepare all required documentation and presentation materials.
 
 9 BUDGET ESTIMATION 
 
 BUDGET DEVELOPMENT FOR SHAM SHAWARMA AND GRILL WEBSITE
-Developing a website for Sham Shawarma and Grill requires a planned budget to cover the costs of design, development, and ongoing maintenance. The following is an estimated cost breakdown:
-Item	Estimated Cost (ZAR)	Description
-Domain Registration	R150 – R300/year	Securing a unique website name (e.g., .co.za domain)
-Web Hosting	R1,000 – R2,000/year	Service required to host the website online
-Website Design	R2,000 – R5,000	Creating the layout, visual appearance, and user interface
-Website Development	R3,000 – R8,000	Building and coding the website, including its features
-Content Creation	R500 – R1,500	Preparing written content, images, and menu details
-Maintenance and Updates	R1,000/year	Ongoing support, updates, and minor improvements
-Total Estimated Cost
-Initial Cost: Approximately R6,650 – R16,800
-Annual Cost (after launch): Approximately R2,000 – R3,300
-The proposed budget is suitable for the development of a small restaurant website and provides sufficient resources to create a professional, functional, and user-friendly online platform. However, the final cost may differ depending on factors such as the website's design complexity, the range of features implemented, and whether the project is completed in-house or by a professional web developer.
+A determined budget is necessary to cover the costs of design, development, and continuing maintenance when creating a website for Sham Shawarma and Grill. An estimated cost breakdown is as follows:
+Budget Item	Estimated Cost (ZAR)	Purpose
+Domain Acquisition	R150 – R300 annually	Purchasing and maintaining a distinctive website address, such as a .co.za domain name.
+Hosting Subscription	R1,000 – R2,000 annually	Providing the infrastructure required to store website files and ensure continuous online availability.
+User Interface and Visual Design	R2,000 – R5,000	Designing the website’s structure, visual elements, and overall look and feel.
+Website Construction and Coding	R3,000 – R8,000	Developing the website’s core functionality and implementing its interactive features through coding.
+Content Preparation	R500 – R1,500	Creating and organising textual information, images, menu content, and other website materials.
+Ongoing Maintenance	Approximately R1,000 annually	Managing regular updates, monitoring performance, addressing technical issues, and maintaining website security.
+
+Total Projected Expense
+Starting Price: Between R6,650 to R16,800
+After launch, the annual cost is between R2,000 and R3,300.
+
+The suggested budget offers enough resources to build a polished, useful, and user-friendly online platform and is appropriate for the building of a small restaurant website. The complexity of the website's design, the variety of features used, and whether the project is finished internally or by a professional web developer are some of the variables that could affect the final cost.
+
+
+
+
+
 
 REFERENCES 
 Chaffey, D. and Ellis-Chadwick, F., 2019. Digital Marketing: Strategy, Implementation and Practice. 7th ed. Harlow: Pearson Education.
